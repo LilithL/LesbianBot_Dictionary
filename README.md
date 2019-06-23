@@ -1,5 +1,5 @@
 # LesbianBot Dictionary
-Dictionnary of words and senteces for https://botsin.space/@lesbianBot
+Dictionnary of words and sentences for https://botsin.space/@lesbianBot
 
 ----
 ### Instructions
