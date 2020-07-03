@@ -112,7 +112,6 @@ unaccountable
 black
 fancy
 juicy
-female
 wise
 nappy
 low
@@ -1011,9 +1010,9 @@ vaporwave
 purple
 obviously
 kinky
-lovely
-bat
-rust
+Lovely
+Bat
+Rust
 Linux
 Maid
 Think
@@ -1052,3 +1051,36 @@ Communist
 Bot
 Robot
 Bork
+Daily
+Food
+Enby
+Plushie
+Melting
+Secret
+Gamer
+Nerdy
+Cooking
+Polyamorous
+Ace
+**Hugging girls
+**Loving girls
+Labrys
+Dagger
+Sword
+Shield
+Doggo
+Cat
+**Lesbians living with their girlfriend and their cats
+Nice
+Dark
+Bright
+**Lesbians in love
+**Lemsbian, l-lem lebian... \nGirls
+Isekai
+Magical
+Caring
+Warm
+Electronic
+Chiptune
+Metal
+Punk
