@@ -1009,6 +1009,11 @@ purple
 obviously
 kinky
 Lovely
+hacker
+hacktivist
+cyber
+indicted
+national enemy
 Bat
 Rust
 Linux
