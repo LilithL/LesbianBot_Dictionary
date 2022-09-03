@@ -1157,5 +1157,8 @@ delightful
 blinding
 cryptic
 cryptid
-ancient
 unfinished
+pixelated
+smudged
+diesel
+Victorian
