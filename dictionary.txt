@@ -1211,3 +1211,6 @@ autumn
 cranky
 sexy
 quantum
+programming 
+musical
+artistic
