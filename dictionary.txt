@@ -1227,3 +1227,5 @@ quantum
 programming 
 musical
 artistic
+spinning
+rotating
