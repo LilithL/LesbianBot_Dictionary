@@ -1230,7 +1230,6 @@ artistic
 spinning
 rotating
 ungovernable
-Weimar period
 extreme
 absolute
 unpredictable
@@ -1255,3 +1254,5 @@ nocturnal
 tree-dwelling
 **a lesbian from Lesbos
 bear
+**lembian
+**debian lebian
