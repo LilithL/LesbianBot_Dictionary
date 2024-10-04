@@ -1230,7 +1230,6 @@ artistic
 spinning
 rotating
 ungovernable
-Weimar period
 extreme
 absolute
 unpredictable
@@ -1244,5 +1243,16 @@ bulky
 loved
 postmodern
 woem
+desert
+river
+beach
+elven
+bratty
+underground
+urban
+nocturnal
+tree-dwelling
+**a lesbian from Lesbos
+bear
 **lembian
 **debian lebian
